@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jgneviani@gmail.com
+	name = joao graca
